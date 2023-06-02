@@ -26,6 +26,7 @@
     "next": "13.4.3",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "styled-components": "^5.3.11",
     "typescript": "5.0.4"
   },
   "devDependencies": {
@@ -39,6 +40,7 @@
     "@storybook/react": "7.0.18",
     "@storybook/testing-library": "0.0.14-next.2",
     "@types/babel__core": "^7.20.1",
+    "@types/styled-components": "^5.1.26",
     "cross-env": "^7.0.3",
     "eslint-plugin-storybook": "^0.6.12",
     "husky": "^8.0.3",
